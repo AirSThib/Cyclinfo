@@ -8,4 +8,6 @@ This software is in developpment, please add issues when the 0.1 will be publish
 ## French
 Logiciel à interface GUI pour faire des cartes ou des graphes de cyclisme, créé avec C++ et la bibilothèque Qt.
 
+Le logiciel est en développement, veuillez créé des Issues lorsque la version 0.1 sera publiée.
+
 ![screenshot](screenshot.png)
