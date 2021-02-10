@@ -22,8 +22,8 @@ private slots:
 	void ouvrirFichier();
 	void enregistrerFichier();
 	void activerSpinBoxCategorie(int id);
-	void activerDepart(false);
-	void activerFinish(false);
+	void activerDepart(bool active);
+	void activerFinish(bool active);
 
 private:
 	Ui::MainWindow *ui;
