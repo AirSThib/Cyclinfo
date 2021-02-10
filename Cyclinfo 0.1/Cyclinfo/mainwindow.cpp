@@ -210,6 +210,16 @@ void MainWindow::enregistrerFichier()
     
 }
 
+void MainWindow::activerDepart()
+{
+    
+}
+
+void MainWindow::activerFinish()
+{
+    
+}
+
 MainWindow::~MainWindow()
 {
 	delete ui;
