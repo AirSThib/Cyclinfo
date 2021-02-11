@@ -3,6 +3,8 @@
 #include <QTranslator>
 #include <QTextCodec>
 #include <QtXml>
+#include <QtGui>
+#include <QtWidgets>
 
 int main(int argc, char *argv[])
 {
