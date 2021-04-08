@@ -8,11 +8,11 @@ This software is in developpment, please add issues when the 0.1 will be publish
 
 ## Who ?
 
-* [https://airsthib.github.io](AirSThib)
-* [https://florian-collin.github.io](Florian COLLIN)
+* (AirSThib)[https://airsthib.github.io]
+* (Florian COLLIN)[https://florian-collin.github.io]
 
 ## Contribute to Cyclinfo...
 
-[https://github.com/AirSThib/Cyclinfo/tree/master/CONTRIBUTING.md](Check instructions here)
+(Check instructions here)[https://github.com/AirSThib/Cyclinfo/tree/master/CONTRIBUTING.md]
 
 ![screenshot](screenshot.png)
