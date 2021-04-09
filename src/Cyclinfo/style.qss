@@ -1,0 +1,19 @@
+* {
+    font-family: "Red Hat Display";
+}
+
+QPushButton {
+        background: qlineargradient(x1:0, y1:0, x2:0, y2:1,
+                                    stop:0 #27e, stop:1 #16d);
+        border-radius: 4px;
+        color: #fff;
+        border: 1px solid #05c;
+        padding: 0.5em;
+        widget-animation-duration: 500;
+        width: 96px !important;
+}
+
+QPushButton::hover {
+background: qlineargradient(x1:0, y1:0, x2:0, y2:1,
+                            stop:0 #38f, stop:1 #16d);
+}
